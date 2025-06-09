@@ -1,2 +1,3 @@
-Essa é uma frase top em! 
-aqui eu modifiquei a parada!
+Arquivo simples com frases para aprender mais sobre Git e Github
+Essa linha foi utilizada para modificar o arquivo! 
+Agora será aplicado o conceito de "pull"
