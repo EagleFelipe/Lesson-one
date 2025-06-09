@@ -8,7 +8,7 @@ Até agora, aprendi a:
 - Criar um repositório local com **`git init`**
 - Enviar um repositório local para o GitHub com **`git remote add`** e **`git push`**
 - Fazer alterações diretamente no GitHub e sincronizar com meu repositório local
-- Usar os comandos **`git pull`**, **`git push`**, **`git status`**, **`git add`**, **`git commit`** e outros para manter o projeto atualizado
+- Usar os comandos **`git pull`**, **`git push`**, **`git status`**, **`git add`**,**`git rm nome-do-arquivo`**,**`git restore nome-do-arquivo`**, **`git commit`** e outros para manter o projeto atualizado
 - Usar a tecla "." no Github para habilitar o modo .dev
 
 ---
